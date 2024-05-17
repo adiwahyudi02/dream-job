@@ -13,8 +13,6 @@ npm install
 
 ## Run App
 
-Start the development server on `http://localhost:3000`:
-
 ```bash
 # run options
 npm run start
